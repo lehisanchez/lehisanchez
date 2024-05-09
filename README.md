@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lehi</h1>
-<h3 align="center">A software engineer from Maryland, USA</h3>
+<img style="align:center;" src="banner.jpg" alt="Lehi Sanchez - Software Engineer"/>
 
 <!--
 **lehisanchez/lehisanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
