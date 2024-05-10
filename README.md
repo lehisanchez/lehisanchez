@@ -41,15 +41,15 @@ I'm a Software Engineer & Database Administrator currently working at [@ccsomd](
 ![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff&style=flat-square)
 ![Overcast Badge](https://img.shields.io/badge/Overcast-FC7E0F?logo=overcast&logoColor=fff&style=flat-square)
 
-## More About Me
+## 🔍 More About Me
 
-### I'm currently...
+### ⚡️ I'm currently...
 
 - 🇫🇷 Learning French
 - 📚 Reading [*The Age of Magical Overthinking*](https://www.goodreads.com/book/show/176443264-the-age-of-magical-overthinking) by Amanda Montell
 - 🎧 Listening to Antonín Dvořák's [*New World Symphony*](https://open.spotify.com/album/0CLnqv8sf1cX0i8R1IXhGM?si=VQewo6syQNyCTU7QjK50qQ)
 
-### Favorite Podcasts
+### 📡 Favorite Podcasts
 
 - 📚 [Bookworm](https://bookworm.fm/)
 - 💡 [BYU Speeches](https://speeches.byu.edu/)
