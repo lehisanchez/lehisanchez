@@ -13,9 +13,9 @@
 
 I'm a Software Engineer & Database Administrator currently working at [@ccsomd](https://github.com/ccsomd). I spend my days building Ruby on Rails applications and writing PowerShell scripts that automate or improve business workflows. Check out what I'm currently working on below!
 
-## Developer Stuff
+## 👨🏻‍💻 Developer Stuff
 
-### Skill Set
+### 💪 Skill Set
 
 ![Ruby on Rails Badge](https://img.shields.io/badge/Ruby%20on%20Rails-D30001?logo=rubyonrails&logoColor=fff&style=flat-square)
 ![Hotwire Badge](https://img.shields.io/badge/Hotwire-FFE801?logo=hotwire&logoColor=000&style=flat-square)
@@ -25,7 +25,7 @@ I'm a Software Engineer & Database Administrator currently working at [@ccsomd](
 ![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat-square)
 ![PowerShell Badge](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=flat-square)
 
-### Tools
+### 🛠️ Tools
 
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
