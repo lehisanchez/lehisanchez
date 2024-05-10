@@ -11,7 +11,7 @@
 
 ## 👋 Hello! I'm Lehi.
 
-I'm a Software Engineer & Database Administrator currently working at [@ccsomd](https://github.com/ccsomd). I spend my days building Ruby on Rails applications and writing PowerShell scripts that automate or improve business workflows. Check out what I'm currently working on below!
+I'm a Software Engineer & Database Administrator currently working at [@ccsomd](https://github.com/ccsomd). I spend my days building Ruby on Rails applications and writing PowerShell scripts that automate or improve business workflows.
 
 ## 👨🏻‍💻 Developer Stuff
 
@@ -24,12 +24,45 @@ I'm a Software Engineer & Database Administrator currently working at [@ccsomd](
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square)
 ![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat-square)
 ![PowerShell Badge](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=flat-square)
+![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=flat-square)
+![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat-square)
+![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat-square)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square)
 
-### 🛠️ Tools
+### 🛠️ Toolbox
 
+![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat-square)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=flat-square)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
 ![GitKraken Badge](https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=fff&style=flat-square)
+![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square)
+![Obsidian Badge](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=fff&style=flat-square)
+![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff&style=flat-square)
+![Overcast Badge](https://img.shields.io/badge/Overcast-FC7E0F?logo=overcast&logoColor=fff&style=flat-square)
+
+## More About Me
+
+### I'm currently...
+
+- 🇫🇷 Learning French
+- 📚 Reading [*The Age of Magical Overthinking*](https://www.goodreads.com/book/show/176443264-the-age-of-magical-overthinking) by Amanda Montell
+- 🎧 Listening to Antonín Dvořák's [*New World Symphony*](https://open.spotify.com/album/0CLnqv8sf1cX0i8R1IXhGM?si=VQewo6syQNyCTU7QjK50qQ)
+
+### Favorite Podcasts
+
+- 📚 [Bookworm](https://bookworm.fm/)
+- 💡 [BYU Speeches](https://speeches.byu.edu/)
+- ⚽️ [Football Weekly](https://www.theguardian.com/football/series/footballweekly)
+- 🎙️ [Grey Matter](https://greymatter.show/)
+- 🧘🏻‍♂️ [The One You Feed](http://oneyoufeed.net/)
+- ✍🏻 [Poetry Unbound](https://onbeing.org/series/poetry-unbound/)
+- ⚙️ [The Rework Podcast](https://37signals.com/podcast)
+- 🎼 [The Samuel Andreyev Podcast](http://www.samuelandreyev.com/)
+- 🎻 [Sticky Notes: The Classical Music Podcast](http://stickynotespodcast.libsyn.com/)
+- 💡 [Y Religion](https://rsc.byu.edu/yreligion)
+
+
 
 <!--
 **lehisanchez/lehisanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
