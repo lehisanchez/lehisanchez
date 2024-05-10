@@ -1,4 +1,4 @@
-<img src="profile_wide.png" alt="Lehi Sanchez"/>
+<img src="profile.png" alt="Lehi Sanchez"/>
 
 <div style="text-align:center">
 
