@@ -9,7 +9,7 @@
 
 </div>
 
-## 👋 Hello! I'm Lehi.
+# Hello 👋 I'm Lehi!
 
 I'm a Software Engineer & Database Administrator currently working at [@ccsomd](https://github.com/ccsomd). I spend my days building Ruby on Rails applications and writing PowerShell scripts that automate or improve business workflows.
 
@@ -46,7 +46,9 @@ I'm a Software Engineer & Database Administrator currently working at [@ccsomd](
 ### ⚡️ I'm currently...
 
 - 🇫🇷 Learning French
-- 📚 Reading [*The Age of Magical Overthinking*](https://www.goodreads.com/book/show/176443264-the-age-of-magical-overthinking) by Amanda Montell
+- 📚 Reading:
+  -  [*The Age of Magical Overthinking*](https://www.goodreads.com/book/show/176443264-the-age-of-magical-overthinking) by Amanda Montell
+  - [The Power of Stillness]() by
 - 🎧 Listening to Antonín Dvořák's [*New World Symphony*](https://open.spotify.com/album/0CLnqv8sf1cX0i8R1IXhGM?si=VQewo6syQNyCTU7QjK50qQ)
 
 ### 📡 Favorite Podcasts
