@@ -20,6 +20,7 @@ I'm a Software Engineer & Database Administrator currently working at [@ccsomd](
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
 ![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat-square)
 ![PowerShell Badge](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=flat-square)
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat-square)
@@ -39,7 +40,6 @@ I'm a Software Engineer & Database Administrator currently working at [@ccsomd](
 ![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff&style=flat-square)
 ![Overcast Badge](https://img.shields.io/badge/Overcast-FC7E0F?logo=overcast&logoColor=fff&style=flat-square)
 ![Basecamp Badge](https://img.shields.io/badge/Basecamp-1D2D35?logo=basecamp&logoColor=fff&style=flat-square)
-![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat-square)
 
 ## 🙋🏻‍♂️ More About Me
 
@@ -54,7 +54,7 @@ I'm a Software Engineer & Database Administrator currently working at [@ccsomd](
   - [The Escape Artist: The Man Who Broke Out of Auschwitz to Warn the World](https://www.goodreads.com/book/show/60194141-the-escape-artist)
 
 
-### Favorite Podcasts 📡
+### 📡 Favorite Podcasts
 
 - 📚 [Bookworm](https://bookworm.fm/)
 - 💡 [BYU Speeches](https://speeches.byu.edu/)
