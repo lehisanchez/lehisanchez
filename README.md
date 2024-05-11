@@ -13,9 +13,7 @@
 
 I'm a Software Engineer & Database Administrator currently working at [@ccsomd](https://github.com/ccsomd). I spend my days building Ruby on Rails applications and writing PowerShell scripts that automate or improve business workflows.
 
-## 👨🏻‍💻 Developer Stuff
-
-### 💪 Skill Set
+## 👨🏻‍💻 Developer Skill Set
 
 ![Ruby on Rails Badge](https://img.shields.io/badge/Ruby%20on%20Rails-D30001?logo=rubyonrails&logoColor=fff&style=flat-square)
 ![Hotwire Badge](https://img.shields.io/badge/Hotwire-FFE801?logo=hotwire&logoColor=000&style=flat-square)
@@ -24,12 +22,12 @@ I'm a Software Engineer & Database Administrator currently working at [@ccsomd](
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square)
 ![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat-square)
 ![PowerShell Badge](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=flat-square)
-![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=flat-square)
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat-square)
+![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=flat-square)
 ![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat-square)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square)
 
-### 🛠️ Toolbox
+## 🛠️ Programmer's Toolbox
 
 ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat-square)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=flat-square)
@@ -40,18 +38,23 @@ I'm a Software Engineer & Database Administrator currently working at [@ccsomd](
 ![Obsidian Badge](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=fff&style=flat-square)
 ![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff&style=flat-square)
 ![Overcast Badge](https://img.shields.io/badge/Overcast-FC7E0F?logo=overcast&logoColor=fff&style=flat-square)
+![Basecamp Badge](https://img.shields.io/badge/Basecamp-1D2D35?logo=basecamp&logoColor=fff&style=flat-square)
+![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat-square)
 
-## 🔍 More About Me
+## 🙋🏻‍♂️ More About Me
 
 ### ⚡️ I'm currently...
 
 - 🇫🇷 Learning French
-- 📚 Reading:
-  -  [*The Age of Magical Overthinking*](https://www.goodreads.com/book/show/176443264-the-age-of-magical-overthinking) by Amanda Montell
-  - [The Power of Stillness]() by
 - 🎧 Listening to Antonín Dvořák's [*New World Symphony*](https://open.spotify.com/album/0CLnqv8sf1cX0i8R1IXhGM?si=VQewo6syQNyCTU7QjK50qQ)
+- 📚 Reading–
+  - [All the Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see)
+  - [The Age of Magical Overthinking](https://www.goodreads.com/book/show/176443264-the-age-of-magical-overthinking)
+  - [The Power of Stillness](https://www.goodreads.com/book/show/52891645-the-power-of-stillness)
+  - [The Escape Artist: The Man Who Broke Out of Auschwitz to Warn the World](https://www.goodreads.com/book/show/60194141-the-escape-artist)
 
-### 📡 Favorite Podcasts
+
+### Favorite Podcasts 📡
 
 - 📚 [Bookworm](https://bookworm.fm/)
 - 💡 [BYU Speeches](https://speeches.byu.edu/)
