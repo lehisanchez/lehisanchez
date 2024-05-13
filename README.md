@@ -28,7 +28,7 @@ I'm a Software Engineer & Database Administrator currently working at [@ccsomd](
 ![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat-square)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square)
 
-## 🛠️ Programmer's Toolbox
+## 🧰 My Programming Toolbox
 
 ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat-square)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=flat-square)
@@ -40,6 +40,10 @@ I'm a Software Engineer & Database Administrator currently working at [@ccsomd](
 ![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff&style=flat-square)
 ![Overcast Badge](https://img.shields.io/badge/Overcast-FC7E0F?logo=overcast&logoColor=fff&style=flat-square)
 ![Basecamp Badge](https://img.shields.io/badge/Basecamp-1D2D35?logo=basecamp&logoColor=fff&style=flat-square)
+
+## 🛠️ Projects
+
+I'm currently rebuilding my [Gradebook](https://github.com/lehisanchez/Gradebook) application that I use to as a practice playground. I'm also rebuilding a couple of applications for @ccsomd, namely their [Warrant Log Book](https://github.com/ccsomd/ESW) and Case Search applications.
 
 ## 🙋🏻‍♂️ More About Me
 
