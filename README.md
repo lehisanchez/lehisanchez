@@ -43,7 +43,7 @@ I'm a Software Engineer & Database Administrator currently working at [@ccsomd](
 
 ## 🛠️ Projects
 
-I'm currently rebuilding my [Gradebook](https://github.com/lehisanchez/Gradebook) application that I use to as a practice playground. I'm also rebuilding a couple of applications for @ccsomd, namely their [Warrant Log Book](https://github.com/ccsomd/ESW) and Case Search applications.
+I'm currently rebuilding my [Gradebook](https://github.com/lehisanchez/Gradebook) application that I use as a practice playground. The older version can be found [here](https://github.com/lehisanchez/Gradebook-Old). I'm also rebuilding a couple of applications for @ccsomd, namely their [Warrant Log Book](https://github.com/ccsomd/ESW) and Case Search applications.
 
 ## 🙋🏻‍♂️ More About Me
 
