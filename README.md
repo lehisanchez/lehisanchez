@@ -40,7 +40,7 @@ I develop Ruby on Rails applications for [@ccsomd](https://github.com/ccsomd).
 ### ⚡️ I'm currently...
 
 - 🇫🇷 Learning French
-- 🎧 Listening to [Claude Debussy](https://open.spotify.com/album/328QOPUImmEZRQHB82DPoY?si=7eLcGV-HSfmO5pVyoXbvLA](https://open.spotify.com/album/1oBuZ8mBCBpEYqm1X2k4NP?si=wRkRqE4ARsirObFL5s5aDw)
+- 🎧 Listening to [Claude Debussy](https://open.spotify.com/album/1oBuZ8mBCBpEYqm1X2k4NP?si=wRkRqE4ARsirObFL5s5aDw)
 - 📚 Reading–
   - [Wherever You Go, There You Are](https://www.goodreads.com/book/show/14096.Wherever_You_Go_There_You_Are)
   - [The Power of Stillness](https://www.goodreads.com/book/show/52891645-the-power-of-stillness)
