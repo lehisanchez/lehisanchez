@@ -35,19 +35,15 @@ I develop Ruby on Rails applications for [@ccsomd](https://github.com/ccsomd).
 ![Overcast Badge](https://img.shields.io/badge/Overcast-FC7E0F?logo=overcast&logoColor=fff&style=flat-square)
 ![Basecamp Badge](https://img.shields.io/badge/Basecamp-1D2D35?logo=basecamp&logoColor=fff&style=flat-square)
 
-
 ## 🙋🏻‍♂️ More About Me
 
 ### ⚡️ I'm currently...
 
 - 🇫🇷 Learning French
-- 🎧 Listening to Taylor Swift [*Piano Instrumentals*](https://open.spotify.com/album/328QOPUImmEZRQHB82DPoY?si=7eLcGV-HSfmO5pVyoXbvLA)
+- 🎧 Listening to [Claude Debussy]([https://open.spotify.com/album/328QOPUImmEZRQHB82DPoY?si=7eLcGV-HSfmO5pVyoXbvLA](https://open.spotify.com/album/1oBuZ8mBCBpEYqm1X2k4NP?si=wRkRqE4ARsirObFL5s5aDw))
 - 📚 Reading–
   - [Wherever You Go, There You Are](https://www.goodreads.com/book/show/14096.Wherever_You_Go_There_You_Are)
-  - [All the Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see)
-  - [The Age of Magical Overthinking](https://www.goodreads.com/book/show/176443264-the-age-of-magical-overthinking)
   - [The Power of Stillness](https://www.goodreads.com/book/show/52891645-the-power-of-stillness)
-
 
 ### 📡 Favorite Podcasts
 
@@ -58,7 +54,6 @@ I develop Ruby on Rails applications for [@ccsomd](https://github.com/ccsomd).
 - 🧘🏻‍♂️ [The One You Feed](http://oneyoufeed.net/)
 - ✍🏻 [Poetry Unbound](https://onbeing.org/series/poetry-unbound/)
 - ⚙️ [The Rework Podcast](https://37signals.com/podcast)
-- 🎼 [The Samuel Andreyev Podcast](http://www.samuelandreyev.com/)
 - 🎻 [Sticky Notes: The Classical Music Podcast](http://stickynotespodcast.libsyn.com/)
 - 💡 [Y Religion](https://rsc.byu.edu/yreligion)
 
