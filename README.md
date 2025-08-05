@@ -5,7 +5,7 @@
 [![Goodreads Badge](https://img.shields.io/badge/Goodreads-372213?logo=goodreads&logoColor=fff&style=flat-square)](https://www.goodreads.com/lehi)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=flat-square)](https://open.spotify.com/user/lehisanchez?si=329562d9c13e4c6f)
 [![Duolingo Badge](https://img.shields.io/badge/Duolingo-58CC02?logo=duolingo&logoColor=fff&style=flat-square)](https://www.duolingo.com/profile/LS2083)
-<!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat-square)] (https://www.instagram.com/lehisanchez/) -->
+<!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat-square)] (https://www.instagram.com/lehisanchez/) --> 
 </div>
 
 # Hello 👋 I'm Lehi!
