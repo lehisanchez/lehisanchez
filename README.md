@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Goodreads Badge](https://img.shields.io/badge/Goodreads-372213?logo=goodreads&logoColor=fff&style=flat-square)](https://www.goodreads.com/lehi)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat-square)](https://www.instagram.com/lehisanchez/)
+<!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat-square)] -->(https://www.instagram.com/lehisanchez/)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=flat-square)](https://open.spotify.com/user/lehisanchez?si=329562d9c13e4c6f)
 [![Duolingo Badge](https://img.shields.io/badge/Duolingo-58CC02?logo=duolingo&logoColor=fff&style=flat-square)](https://www.duolingo.com/profile/LS2083)
 
@@ -26,24 +26,24 @@ I develop Ruby on Rails applications for [@ccsomd](https://github.com/ccsomd).
 
 ## 🧰 My Favorite Tools
 
-![Obsidian Badge](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=fff&style=flat-square)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
 ![GitKraken Badge](https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=fff&style=flat-square)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat-square)
 ![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=fff&style=flat-square)
-![Overcast Badge](https://img.shields.io/badge/Overcast-FC7E0F?logo=overcast&logoColor=fff&style=flat-square)
 ![Basecamp Badge](https://img.shields.io/badge/Basecamp-1D2D35?logo=basecamp&logoColor=fff&style=flat-square)
+![Obsidian Badge](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=fff&style=flat-square)
+![Overcast Badge](https://img.shields.io/badge/Overcast-FC7E0F?logo=overcast&logoColor=fff&style=flat-square)
 
 ## 🙋🏻‍♂️ More About Me
 
 ### ⚡️ I'm currently...
 
 - 🇫🇷 Learning French
-- 🎧 Listening to [Claude Debussy](https://open.spotify.com/album/1oBuZ8mBCBpEYqm1X2k4NP?si=wRkRqE4ARsirObFL5s5aDw)
+- 🎧 Listening to [Dashboard Confessional](https://open.spotify.com/album/2GM5W0UOKh5i5OGQl0XaRQ?si=WOaNuNt2Q6aPgL2MCqAVAQ))
 - 📚 Reading–
-  - [Wherever You Go, There You Are](https://www.goodreads.com/book/show/14096.Wherever_You_Go_There_You_Are)
-  - [The Power of Stillness](https://www.goodreads.com/book/show/52891645-the-power-of-stillness)
+  - [A Walk in the Park: The True Story of a Spectacular Misadventure in the Grand Canyon](https://www.goodreads.com/book/show/199798198-a-walk-in-the-park)
+  - [Station Eleven](https://www.goodreads.com/book/show/20170404-station-eleven)
 
 ### 📡 Favorite Podcasts
 
