@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Goodreads Badge](https://img.shields.io/badge/Goodreads-372213?logo=goodreads&logoColor=fff&style=flat-square)](https://www.goodreads.com/lehi)
-<!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat-square)] -->(https://www.instagram.com/lehisanchez/)
+<!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat-square)] (https://www.instagram.com/lehisanchez/) -->
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=flat-square)](https://open.spotify.com/user/lehisanchez?si=329562d9c13e4c6f)
 [![Duolingo Badge](https://img.shields.io/badge/Duolingo-58CC02?logo=duolingo&logoColor=fff&style=flat-square)](https://www.duolingo.com/profile/LS2083)
 
@@ -40,7 +40,7 @@ I develop Ruby on Rails applications for [@ccsomd](https://github.com/ccsomd).
 ### ⚡️ I'm currently...
 
 - 🇫🇷 Learning French
-- 🎧 Listening to [Dashboard Confessional](https://open.spotify.com/album/2GM5W0UOKh5i5OGQl0XaRQ?si=WOaNuNt2Q6aPgL2MCqAVAQ))
+- 🎧 Listening to [Dashboard Confessional](https://open.spotify.com/album/2GM5W0UOKh5i5OGQl0XaRQ?si=WOaNuNt2Q6aPgL2MCqAVAQ)
 - 📚 Reading–
   - [A Walk in the Park: The True Story of a Spectacular Misadventure in the Grand Canyon](https://www.goodreads.com/book/show/199798198-a-walk-in-the-park)
   - [Station Eleven](https://www.goodreads.com/book/show/20170404-station-eleven)
