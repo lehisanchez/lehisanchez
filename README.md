@@ -3,8 +3,8 @@
 <div align="center">
 
 [![Goodreads Badge](https://img.shields.io/badge/Goodreads-372213?logo=goodreads&logoColor=fff&style=flat-square)](https://www.goodreads.com/lehi)
-[![Spotify Badge](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=fff&style=flat-square)](https://open.spotify.com/user/lehisanchez?si=329562d9c13e4c6f)
-[![Duolingo Badge](https://img.shields.io/badge/Duolingo-58CC02?logo=duolingo&logoColor=fff&style=flat-square)](https://www.duolingo.com/profile/LS2083)
+[![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?logo=apple%20music&logoColor=white)](https://music.apple.com/profile/lehisanchez)
+<!-- [![Duolingo Badge](https://img.shields.io/badge/Duolingo-58CC02?logo=duolingo&logoColor=fff&style=flat-square)](https://www.duolingo.com/profile/LS2083) -->
 <!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat-square)] (https://www.instagram.com/lehisanchez/) --> 
 </div>
 
@@ -39,17 +39,18 @@ I develop Ruby on Rails applications for [@ccsomd](https://github.com/ccsomd).
 ### ⚡️ I'm currently...
 
 - 🇫🇷 Learning French
-- 🎧 Listening to [Dashboard Confessional](https://open.spotify.com/album/2GM5W0UOKh5i5OGQl0XaRQ?si=WOaNuNt2Q6aPgL2MCqAVAQ)
+- 🎧 Listening to [MxPx](https://mxpx.com/)
 - 📚 Reading–
   - [A Walk in the Park: The True Story of a Spectacular Misadventure in the Grand Canyon](https://www.goodreads.com/book/show/199798198-a-walk-in-the-park)
-  - [Station Eleven](https://www.goodreads.com/book/show/20170404-station-eleven)
+  - [Tokyo Vice](https://www.goodreads.com/book/show/6658129-tokyo-vice)
 
 ### 📡 Favorite Podcasts
 
+- ⚽️ [After The Whistle](https://podcasts.apple.com/us/podcast/after-the-whistle-with-brendan-hunt-and-rebecca-lowe/id1654074926)
 - 📚 [Bookworm](https://bookworm.fm/)
 - 💡 [BYU Speeches](https://speeches.byu.edu/)
 - ⚽️ [Football Weekly](https://www.theguardian.com/football/series/footballweekly)
-- 🎙️ [Grey Matter](https://greymatter.show/)
+- ✍️ [How I Write](https://podcasts.apple.com/us/podcast/how-i-write/id1700171470)
 - 🧘🏻‍♂️ [The One You Feed](http://oneyoufeed.net/)
 - ✍🏻 [Poetry Unbound](https://onbeing.org/series/poetry-unbound/)
 - ⚙️ [The Rework Podcast](https://37signals.com/podcast)
