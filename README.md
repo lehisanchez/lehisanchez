@@ -10,7 +10,7 @@
 
 # Hello 👋 I'm Lehi!
 
-I develop Ruby on Rails applications for [@ccsomd](https://github.com/ccsomd).
+Engineering manager and developer, building Ruby on Rails apps, and keeping the lights on for a law enforcement agency. I develop Ruby on Rails applications for [@ccsomd](https://github.com/ccsomd).
 
 ## 👨🏻‍💻 Developer Skill Set
 
